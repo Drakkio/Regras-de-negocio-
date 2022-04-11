@@ -17,7 +17,8 @@ Solução: Pode ser feito um modulo de cadastro onde os usuários, zeladores e o
 <img align="right" alt="Drakkio-pic" height="130" style="border-radius:40px;" src="https://iccserra.org.br/uploads/images/2017/09/4-dicas-para-definir-metas-poderosas-1505503057.png">
 
 •	Objetivos/ metas do negócio
-- Este sistema de negócio tem como sua função gerar análises firmes e verídicas sendo isto, de total forma informa ao ADM (administrador) como/quando e quanto sua quadra de tênis foi utilizada. A meta reside em definir melhores preços ou até mesmo melhores ofertas aos demais usuários.
+   
+Este sistema de cadastro tem como afins, atingir ao máximo o mercado, sendo isto um sistema implementado – gerando análises cotidianas do negócio do usuário e/ou cliente, os informando qual é a sua situação cotidiana e o que podem melhorar para alavancarem o seu negócio.
 
 
 ##
@@ -26,8 +27,11 @@ Solução: Pode ser feito um modulo de cadastro onde os usuários, zeladores e o
 
 •	Processo de negócio
 
-Feito isto o consumidor e/ou usuário tende a verificar tais objetos UTILITARIOS que irá usar da quadra sendo-lhes.: raquete, bolinhas, roupas leves e dentre outros.     
-  
+- Cadastro do Usuário – Dados Pessoais, mas sendo isto analisados os perfis cada a cada, para a distribuição de ofertas.
+- Oferta das Quadras e seus horários – Tipo de quadras, cobertas ou não cobertas, e seus horários e dias disponíveis.
+-  Preços relevantes – Ofertas e pagamento antecipado (reserva do produto)
+-  Sistema de pagamento: PIX, cartão de crédito, dinheiro e dentre outros.  
+       
  ##
   
    <img align="right" alt="Drakkio-pic" height="150" style="border-radius:40px;" src="https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2016/07/28101803/stakeholder.jpg">
@@ -38,15 +42,20 @@ Quadra de Tenis: Produtos e Lazer, sendo isto ofertas disponibilizadas em dias c
 
 •	Stakeholders 
 
+Leandro Luque (POO): Organizador do projeto e instrutor geral.
+   
+Daniel: Codificador, implementador do código de cadastro.
+   
+Renan: Codificador, planejador, intitula como devem ser feitos os processos do sistema de modo correto e organizado.
+   
+Janaina: Planejadora, efetua a organização dos processos.
+   
 Usuários: Por conta do problema de cadastro os usuários, ficam inertes sendo isto ficam impossibilitados de usar a quadra de tênis.
-
+   
 Zeladores - Por conta do problema de cadastro, isto também os afeta, mas em questão de serviço.
+   
+Administradores: Por conta do sistema de cadastro não-funcional, os Administradores perdem análises importantes, como, quanto ganham por dia, a quantidade de usuários que a utilizam, os seus empregados e sendo isto também, gerando problema no seu negócio.
 
-Administradores: Por conta do sistema de cadastro não-funcional, os Administradores perdem análises importantes, como, quanto ganham por dia, a quantidade de usuários que a as utilizam, os seus empregados e sendo isto também, gerando problema no seu negócio.
-
-  •	Requisito de stakeholder
-
-Que todos os stakeholders emitam um formulário onde expressaram o que a ser feito e implementado, sendo isto ADM, Usuários e zeladores, Desenvolvimento do sistema de cadastro analítico.
   
   ##
 •	Concorrentes
