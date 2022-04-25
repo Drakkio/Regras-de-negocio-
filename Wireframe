@@ -1,0 +1,219 @@
+==============
+TELA DE LOGIN
+==============
+
+USUÁRIO:
+
+SENHA:
+
+-------------------------------------------------
+-------------------------------------------------
+
+========================
+GERENCIAMENTO DE QUADRAS
+========================
+
+CADASTROS (1) - HABILITAR/DESABILITAR (2)
+
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO)"***************
+
+NOVO (1) - ALTERAR/EXCLUIR (2) - CONSULTA (3)
+
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO(NOVO))"****
+
+ESCOLHA O TIPO DE QUADRA
+
+1 - TÊNIS
+2 - SAIBRO/RÁPIDA
+3 - BEACH TÊNIS
+
+
+INSIRA O NÚMERO DA QUADRA:
+
+A QUADRA POSSUI COBERTURA?:
+
+1 = SIM | 2 = NÃO
+
+A QUADRA POSSUI ARQUIBANCADA?:
+
+1 = SIM | 2 = NÃO
+
+A QUADRA POSSUI BANCO PARA OS JOGADORES SENTAREM?:
+
+1 = SIM | 2 = NÃO
+
+
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO(ALTERAR/EXCLUIR))"*************
+
+///EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS///
+
+
+///NOME E INFORMAÇÕES DA QUADRA///
+
+1 = ALTERAR | 2 = EXCLUIR
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO(CONSULTA))"***********
+
+
+///EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS///
+
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(HABILITAR/DESABILITAR)"***************
+
+///EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS///
+
+
+///NOME E INFORMAÇÕES DA QUADRA///
+
+1 = BLOQUEAR/DESBLOQUEAR | 2 = HABILITAR/DESABILITAR
+
+
+******************************************************
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+==========================
+GERENCIAMENTO DE USUÁRIOS
+==========================
+
+CADASTROS (1) - HABILITAR/DESABILITAR (2)
+
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO)"***************
+
+NOVO (1) - ALTERAR/EXCLUIR (2) - CONSULTA (3)
+
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO(NOVO))"****
+
+NOME:
+
+E-MAIL:
+
+SENHA:
+
+CONFIRMAR SENHA:
+
+NÍVEL DE PERMISSÃO:
+
+1 = USUPARIO | 2 = ZELADOR | 3 = ADMINISTRADOROR
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO(ALTERAR/EXCLUIR))"*************
+
+
+///EXIBIÇÃO DE TODOS OS USUÁRIOS CADASTRADOS///
+
+
+///NOME E INFORMAÇÕES DOS USUÁRIOS///
+
+
+1 = ALTERAR | 2 = EXCLUIR
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(CADASTRO(CONSULTA))"***********
+
+
+///EXIBIÇÃO DE TODOS OS USUÁRIOS CADASTRADOS///
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(HABILITAR/DESABILITAR)"***************
+
+
+///EXIBIÇÃO DE TODOS OS USUÁRIOS CADASTRADOS///
+
+
+1 = BLOQUEAR/DESBLQUEAR | 2 = HABILITAR/DESABILITAR
+
+******************************************************
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+=====================
+MANUTENÇÃO DE QUADRAS
+=====================
+
+1 = AGENDAR MANUTENÇÃO | 2 = MANUTENÇÕES CADASTRADAS
+
+****TELA DENTRO DA OPÇÃO "(AGENDAR MANUTENÇÃO)"***************
+
+
+///EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS///
+
+
+///NOME E INFORMAÇÕES DA QUADRA///
+
+1 = AGENDAR MANUTENÇÃO | 2 = ALTERAR
+
+******************************************************
+
+****TELA DENTRO DA OPÇÃO "(MANUTENÇÕES CADASTRADAS)"***************
+
+
+///EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS PARA MANUTENÇÃO///
+
+
+///NOME E INFORMAÇÕES DA QUADRA///
+
+
+1 = ALTERAR | 2 = EXLUIR
+
+******************************************************
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+============
+AGENDAMENTO
+============
+
+1 = AGENDAR | 2 = CONSULTA DE QUADRAS INDISPONÍVEIS
+
+
+****TELA DENTRO DA OPÇÃO "(AGENDAR)"***************
+
+
+//EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS///
+
+
+///NOME E INFORMAÇÕES DA QUADRA///
+
+
+1 = RESERVAR/CANCELAR RESERVA | 2 = ALTERAR DADOS DA RESERVA
+
+***************************************************************
+
+
+****TELA DENTRO DA OPÇÃO "(CONSULTA DE QUADRAS INDISPONÍVEIS)"***************
+
+
+///EXIBIÇÃO DE TODAS AS QUADRAS INDISPONÍVEIS///
+
+
+///NOME E INFORMAÇÕES DA QUADRA///
+
+***************************************************************
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+============
+RELATÓRIOS
+============
+
+//EXIBIÇÃO DE TODAS AS QUADRAS CADASTRADAS COM INFORMAÇÕES DE RENDIMENTO///
